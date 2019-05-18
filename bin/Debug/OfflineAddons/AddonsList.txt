@@ -1,0 +1,7 @@
+[Touch VPN] [touch_vpn-2.2.15-fx.xpi]
+[1Password X – Менеджер паролей] [1password_x_password_manager-1.14.3-fx.xpi]
+[ZenMate VPN] [zenmate_vpn_for_firefox-6.4.0-fx.xpi]
+[Browsec VPN] [browsec_vpn-3.22.5-fx.xpi]
+[AdNauseam] [adnauseam-3.7.802-an+fx.xpi]
+[Adguard Антибаннер] [adguard_adblocker-3.0.13-an+fx.xpi]
+[Cookie AutoDelete] [cookie_autodelete-3.0.1-an+fx.xpi]

@@ -1,0 +1,10 @@
+E:\У\ЗащитаОС\Курсовая\2\BrowserInstaller\BrowserInstaller\bin\Debug\BrowserInstaller.exe.config
+E:\У\ЗащитаОС\Курсовая\2\BrowserInstaller\BrowserInstaller\bin\Debug\BrowserInstaller.exe
+E:\У\ЗащитаОС\Курсовая\2\BrowserInstaller\BrowserInstaller\bin\Debug\BrowserInstaller.pdb
+E:\У\ЗащитаОС\Курсовая\2\BrowserInstaller\BrowserInstaller\obj\Debug\BrowserInstaller.csprojAssemblyReference.cache
+E:\У\ЗащитаОС\Курсовая\2\BrowserInstaller\BrowserInstaller\obj\Debug\BrowserInstaller.Properties.Resources.resources
+E:\У\ЗащитаОС\Курсовая\2\BrowserInstaller\BrowserInstaller\obj\Debug\BrowserInstaller.csproj.GenerateResource.cache
+E:\У\ЗащитаОС\Курсовая\2\BrowserInstaller\BrowserInstaller\obj\Debug\BrowserInstaller.csproj.CoreCompileInputs.cache
+E:\У\ЗащитаОС\Курсовая\2\BrowserInstaller\BrowserInstaller\obj\Debug\BrowserInstaller.exe
+E:\У\ЗащитаОС\Курсовая\2\BrowserInstaller\BrowserInstaller\obj\Debug\BrowserInstaller.pdb
+E:\У\ЗащитаОС\Курсовая\2\BrowserInstaller\BrowserInstaller\obj\Debug\BrowserInstaller.mainFrom.resources

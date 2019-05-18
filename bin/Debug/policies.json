@@ -1,0 +1,15 @@
+{
+  "policies": {
+    "BlockAboutAddons": false,
+    "BlockAboutConfig": true,
+    "BlockAboutProfiles": false,
+    "BlockAboutSupport": true,
+    "DisableAppUpdate": true,
+    "DisableTelemetry": false,
+    "DisablePrivateBrowsing": true,
+    "OfferToSaveLogins": true,
+    "Extensions": {
+      "Install": ["E:\\У\\ЗащитаОС\\Курсовая\\2\\BrowserInstaller\\BrowserInstaller\\bin\\Debug\\OfflineAddons\\zenmate_vpn_for_firefox-6.4.0-fx.xpi","E:\\У\\ЗащитаОС\\Курсовая\\2\\BrowserInstaller\\BrowserInstaller\\bin\\Debug\\OfflineAddons\\1password_x_password_manager-1.14.3-fx.xpi"]
+    }
+  }
+}
